@@ -1,0 +1,8 @@
+.venv/
+__pycache__/
+*.pyc
+mlruns/
+mlflow.db
+data.zip
+new-labels.zip
+data/

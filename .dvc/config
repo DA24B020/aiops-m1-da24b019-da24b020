@@ -1,0 +1,5 @@
+[core]
+    remote = s3remote
+['remote "s3remote"']
+    url = s3://aiops-da24b019-da24b020/m1/dvcstore
+    region = ap-south-1
