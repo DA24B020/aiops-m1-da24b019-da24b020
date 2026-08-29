@@ -5,4 +5,3 @@ mlruns/
 mlflow.db
 data.zip
 new-labels.zip
-data/

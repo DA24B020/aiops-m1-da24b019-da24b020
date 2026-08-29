@@ -24,7 +24,8 @@ beautifulsoup4==4.15.0
 billiard==4.2.4
 bleach==6.4.0
 blinker==1.9.0
-botocore==1.43.56
+boto3==1.43.83
+botocore==1.43.83
 cachetools==7.1.7
 celery==5.6.3
 certifi==2026.7.22
@@ -184,6 +185,7 @@ rich==15.0.0
 rpds-py==2026.6.3
 ruamel.yaml==0.19.1
 s3fs==2026.7.0
+s3transfer==0.19.2
 scikit-learn==1.9.0
 scipy==1.18.1
 scmrepo==3.6.2
